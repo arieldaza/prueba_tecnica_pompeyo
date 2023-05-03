@@ -46,5 +46,5 @@ los usuarios creados en esta base de datos son y tiene como contraseña 'passwor
 2) dentro el archivo .env configurar las siguientes variables
 
 - DB_DATABASE=pompeyo_db
-- DB_USERNAME=<nombre del usario de la base de datos>
-- DB_PASSWORD=<password de la base datos> 
+- DB_USERNAME=<nombre-base-datos>
+- DB_PASSWORD=<password-base-datos> 
