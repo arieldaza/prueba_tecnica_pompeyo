@@ -17,7 +17,8 @@ Prueba técnica para empresa Pompeyo
 
 # Opccion 2
 1) crear base de datos con el nombre:
-pompeyo_db
+- pompeyo_db
+
 2) importar el archivo pompeyo_db.sql en la base de datos creada 
 los usuarios creados en esta base de datos son y tiene como contraseña 'password':
 
@@ -40,7 +41,7 @@ los usuarios creados en esta base de datos son y tiene como contraseña 'passwor
 - usuario:  user@pompeyoblogs.com
 - contraseña: password
 
-# Configuracion del archivo -env
+# Configuracion del archivo .env
 1) renombrar el .env.example -> .env
 
 2) dentro el archivo .env configurar las siguientes variables
